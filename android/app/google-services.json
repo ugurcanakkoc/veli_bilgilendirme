@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "617874561511",
+    "project_id": "bitirme-projesi-d49d7",
+    "storage_bucket": "bitirme-projesi-d49d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617874561511:android:628d5ef63a7e64cc484542",
+        "android_client_info": {
+          "package_name": "com.example.veli_bilgilendirme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617874561511-j2t23eie8uqqsqdg4ssvpqu10t4e3b6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFBkzwkMiXrkxRrXaWwxNXA8aOkgirs2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617874561511-j2t23eie8uqqsqdg4ssvpqu10t4e3b6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617874561511:android:76e2a488b9c7cd69484542",
+        "android_client_info": {
+          "package_name": "com.example.veli_bilgilendirme_yeni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617874561511-j2t23eie8uqqsqdg4ssvpqu10t4e3b6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFBkzwkMiXrkxRrXaWwxNXA8aOkgirs2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617874561511-j2t23eie8uqqsqdg4ssvpqu10t4e3b6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
