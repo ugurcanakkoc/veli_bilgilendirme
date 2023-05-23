@@ -1,0 +1,1 @@
+# veli_bilgilendirme
